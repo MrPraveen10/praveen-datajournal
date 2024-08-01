@@ -1,1 +1,1 @@
-# praveen-datajournal.github.io
+# praveen-datajournal
