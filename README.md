@@ -1,22 +1,10 @@
-# praveen-datajournal
-
-
-
 # Praveen's Data Science Journey
 
 Welcome to my GitHub Pages site where I document my journey in data science.
 
 ---
-
-**New Post:** 
-
+**01 Aug 2024 : Introduction to SQL** 
 ---
-layout: post
-title: "Introduction to SQL"
-date: 2024-08-01
-categories: SQL
----
-# Introduction to SQL
 
 SQL (Structured Query Language) is a powerful tool for managing and manipulating relational databases. It allows you to perform operations such as:
 
@@ -36,16 +24,6 @@ Here are some basic SQL commands:
 
 ### Example of a `SELECT` Statement
 
-```sql
-SELECT first_name, last_name FROM employees WHERE department = 'Sales';
-
-### 4. **Commit and Push the Changes**
-- Save the file, commit your changes, and push them to your GitHub repository.
-
-### 5. **Verify Your Post**
-- After the push, visit your GitHub Pages site (`praveen-datajourney.github.io`) and check if the post appears as expected.
-
-This should create a basic post on your site introducing SQL.
-
+`SELECT first_name, last_name FROM employees WHERE department = 'Sales';`
 
 In this post, I cover the basics of SQL, including how to select, insert, update, and delete data in a relational database.
