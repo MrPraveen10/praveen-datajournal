@@ -1,3 +1,20 @@
+# _config.yml
+
+# Site settings
+title: Praveen's Data Science Journey
+description: Documentation of my journey in data science.
+url: "https://mrpraveen10.github.io/praveen-datajournal/"
+baseurl: ""
+
+# Remote theme
 remote_theme: pages-themes/cayman@v0.2.0
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # This allows you to use a remote theme
+  - jekyll-feed        # Optional: Adds a feed to your site
+  - jekyll-seo-tag     # Optional: Adds SEO tags to your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
