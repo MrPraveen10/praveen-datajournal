@@ -3,8 +3,8 @@
 # Site settings
 title: Praveen's Data Science Journey
 description: Documentation of my journey in data science.
-url: "https://mrpraveen10.github.io/praveen-datajournal/"
-baseurl: ""
+url: "https://mrpraveen10.github.io/"
+baseurl: "https://mrpraveen10.github.io/praveen-datajournal/"
 
 # Remote theme
 remote_theme: pages-themes/cayman@v0.2.0
